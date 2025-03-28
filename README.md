@@ -9,8 +9,11 @@ I am building at a startup, [Mechie](https://www.mechie.io/), which is the leetc
 My most difficult project: [FluidSim](https://github.com/MonashDeepNeuron/FluidSim)
 
 Previously:
-I interned as a software engineer at one of the largest supermarket chains in Australia, [Coles](https://www.coles.com.au/).
+I interned as a software engineer at [Coles](https://www.coles.com.au/), one of the largest supermarket chains in Australia.
+
 I worked at 2 Startups: [Hexa](https://myhexaa.com/) and  SparrowHealthTech.
+
+
 
 [Linkedin](https://www.linkedin.com/in/ahnaf-bin-masud/)
 
