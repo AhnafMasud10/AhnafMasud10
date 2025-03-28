@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ahnaf 👋
 
-<!--
-**AhnafMasud10/AhnafMasud10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in Melbourne who loves building cool projects and startups.
 
-Here are some ideas to get you started:
+Currently a third-year student at Monash University, Melbourne, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building at a startup, [Mechie](https://www.mechie.io/), which is the leetcode for Mechanical Engineers.
+
+My most difficult project: [FluidSim](https://github.com/MonashDeepNeuron/FluidSim)
+
+Previously:
+I interned as a software engineer at one of the largest supermarket chains in Australia, [Coles](https://www.coles.com.au/).
+I worked at 2 Startups: [Hexa](https://myhexaa.com/) and  SparrowHealthTech.
+
+[Linkedin](https://www.linkedin.com/in/ahnaf-bin-masud/)
+
+
+
+
+
+
+
