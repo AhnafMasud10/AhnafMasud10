@@ -2,7 +2,9 @@
 
 I'm a software engineer based in Melbourne who loves building cool projects and startups.
 
-Currently a third-year student at Monash University, Melbourne, Australia.
+I graduated from Monash University, Melbourne, Australia.
+
+I did an internship at Microsoft.
 
 I am building at a startup, [Mechie](https://www.mechie.io/), which is the leetcode for Mechanical Engineers.
 
